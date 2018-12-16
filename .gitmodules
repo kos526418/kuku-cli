@@ -1,0 +1,3 @@
+[submodule "kuku"]
+	path = kuku
+	url = git@github.com:kos526418/kuku
